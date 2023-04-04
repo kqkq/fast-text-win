@@ -6,6 +6,8 @@ More here: [Facebook Fast Text](https://github.com/facebookresearch/fastText).
 
 First query takes more time, other queries not :)
 
+Can be built on Windows using Visual Studio.
+
 ## Prediction
 
 There is a simple class for executing prediction models:

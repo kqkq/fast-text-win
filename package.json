@@ -1,21 +1,21 @@
 {
-  "name": "fast-text",
+  "name": "fast-text-win",
   "version": "1.0.3",
-  "description": "Facebook FastText wrapper for Node.js",
+  "description": "Facebook FastText wrapper for Node.js, with tweeks for building on Windows using Visual Studio",
   "main": "main.js",
   "scripts": {
     "test": "mocha ./test"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/davidmenger/fast-text.git"
+    "url": "git+ssh://git@github.com/kqkq/fast-text-win.git"
   },
   "keywords": [
     "TextProcessing",
     "FastText",
     "Facebook"
   ],
-  "author": "David Menger",
+  "author": "Qi Kuang",
   "license": "MIT",
   "gypfile": true,
   "dependencies": {

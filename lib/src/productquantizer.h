@@ -9,7 +9,7 @@
 
 #pragma once
 
-#include <cstring>
+#include <string>
 #include <istream>
 #include <ostream>
 #include <vector>
